@@ -1,0 +1,30 @@
+{
+   "author": "VictorPL",
+   "description": "A theme inspired by Atom's One Dark theme and the One Dark Pro theme extension for VS Code by Binaryify.",
+   "key": "MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCf8CuEp3J7VMySr/nL/2Sd/Y3eY2jbUBgsZs2tywhqdbHUYd6/aRivkAeQVOH7/WlQNZr2W/NASIh9S+P36Y4Nv2pqvMnX7qeF5NnE9+JcHUbvvzXDB3go/parJzyJyRATiQPcnuil8vjcN82J91EE9dkFl7x8I0f+fP3ogtek3gxV+WYl7WXv0hcnh1kfyLzwBC8wC38j9KscJaseADkOuC+b4IOOCAd0YRvKu8HRdKzaoBkqiJjSPP83Ql5baz+rUf3TSSewpscSJgrHMo8fH3AR5tEXkXkQTS7sfVa/0Il3kPCXneUl6Q/1sSJrbvQJoTPQYnXH4WwHM8kAT+NvAgMBAAECggEAHivFWdnoq8FcchOGUOhVx8QMHjaskiqy1LVz+WQCq2qWaFUqGvutb3kBJEYO92Vfl4T1PaIs6iSEsvY9BAhoBsnkPkxs2zInIggA2LpWVkAjoJh2gNsI3Nrh+1mEfw2R3c2MD/NeOefy8EAKowsnmoLyNK7iHJzfOO/FSjZcjboVOf2sRSkUUzCTC958SNJnkfMYE/1ofH+aAsl/GflTBpsr3aIhp5FHb3T/A+YyfBQ8hAms3r1P+1QtkS6u7tbCUbD63q7ck4slmXDv4Z870uta1hFwvvyX0g280uAlhHod3gWFdBPOUZ6oILtt96oikST2nPc9ok+mc33a7p3AoQKBgQDTLHiN1ft8GYuy2JixaexVlycUhmVoI43iP3VjU4Scly/qo5C9jE+mwuHutESlNQisoUS2xkjbwN5d6rf2u18XxNIlSvW2FstIGNsQ1WvpLISmsOkDbrFn26ZlOs47KAOV844btcbjv7Yq41NXsGR/BKjyvxOz1vW0HkjhKZAQfwKBgQDB43l3x6pRx8LwcZr5pDRROYqA6W/T6bm/LxIvaLy8C+S8o7P9N7muo8ekAopxsK3WLuqtpxuho3l9OFNSaROwnnl02zNiT5ZaP4pah+DVUm7EyzuoqxAsZrWYizYL/Nuqr7xwVmokDcfYWYD//Ki3LB2YBH45592vGz/2A2u1EQKBgQCRYflxNJNZocCylTmyUsk5N8HY+JnR80BYNfYcNsCCifecI5WfWXzwwxSGoSbtUjCxoKlM5//7ArJUmCakv+S82W0P7aZyAQlcjngrA7OyKUr986fIDCoo5WiOIskeovKtBqucWi4eV7sTlcOoCDF33P5veKsY0fIAWiU0lsevAwKBgQCzGusOVwdi3GGbs5YxnhomHj1vsDR5UaMglN77pIkUPPhjueV+uIdyaCD3xNEXDNrIzDZFi+TegCCuJ+Xwbtidgwc3h3YEDvkZDTFFR9fNt4RTjlniCYO7QHXoIFEg6cgR+JzeOTV7cK93j9a2ojNIYhxEXYItA5+pLkb7f1VzwQKBgF9EyTINhnTSiIPJ8zOxDP3wUfQK2+nQ9idh5pwNS7MBBAPZHwM5c2S/qLcYp2+fSY2Epq7v/mBFRuKA3yuXT+AvRMGmj8zLLR53mRU+6rqPXMieZMny0Y63cDNePMc0uj97I8Hj+xz2viG1JIt94b8hqe3wDdiOdEFIWc03lYhY",
+   "icons": {
+      "128": "icon.png"
+   },
+   "manifest_version": 2,
+   "name": "One Dark Pro",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 171, 178, 191 ],
+         "frame": [ 33, 37, 43 ],
+         "frame_inactive": [ 33, 37, 43 ],
+         "ntp_background": [ 40, 44, 52 ],
+         "ntp_text": [ 171, 178, 191 ],
+         "omnibox_background": [ 51, 55, 62 ],
+         "omnibox_text": [ 158, 165, 180 ],
+         "tab_background_text": [ 135, 138, 143 ],
+         "tab_background_text_inactive": [ 107, 113, 125 ],
+         "tab_text": [ 220, 220, 220 ],
+         "tab_text_inactive": [ 135, 138, 143],
+         "toolbar": [ 40, 44, 52 ],
+         "toolbar_button_icon": [ 171, 178, 191 ],
+         "toolbar_text": [ 171, 178, 191 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
