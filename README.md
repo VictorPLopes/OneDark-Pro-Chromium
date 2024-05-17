@@ -45,6 +45,7 @@ First, download the latest [release](https://github.com/VictorPLopes/OneDark-Pro
 ## Support me
 
 If you like this theme, and my work, you can always support me via **[Ko-fi](https://ko-fi.com/victorplopes)**. If I get enough support, I will pay the developer registration fee and publish this theme on the Chrome Web Store.
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'S6S7DTZCA');kofiwidget2.draw();</script> 
+</br>
+<a href='https://ko-fi.com/S6S7DTZCA' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## [CHANGELOG](./CHANGELOG.md)
